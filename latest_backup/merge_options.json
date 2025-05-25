@@ -1,0 +1,7 @@
+{
+  "output_name_template": "{name}_istruzioni_montaggio.pdf",
+  "add_page_numbers": true,
+  "add_watermark": true,
+  "watermark_text": "ultima modifica: {date}",
+  "page_number_position": "right"
+}
