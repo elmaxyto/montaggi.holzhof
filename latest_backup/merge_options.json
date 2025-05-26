@@ -1,7 +1,10 @@
 {
-  "output_name_template": "{name}_istruzioni_montaggio.pdf",
-  "add_page_numbers": true,
-  "add_watermark": true,
-  "watermark_text": "Holzhof srl",
-  "watermark_opacity": 0.3
+  "overlay_text": "ultima modifica {date}",
+  "overlay_width": 150,
+  "overlay_height": 40,
+  "overlay_position": null,
+  "overlay_enabled": true,
+  "numbering": false,
+  "numbering_position": null,
+  "numbering_text": "Pagina  {page}"
 }
